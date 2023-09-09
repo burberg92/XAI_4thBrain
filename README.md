@@ -1,7 +1,7 @@
 # Problem
 - While there has been breakthroughs in types of healthcare-specific AI modelling techniques, no significant attempt has been made in development of a machine learning model that provides a detailed description of why a categorical diagnosis of cancer is made based on the tissue images. 
 
-- In this project, we attempt to develop a web application based on machine learning that will be capable of assessing whole-slide images of potentially cancerous tissues and produce a diagnosis and corresponding auto-generated explanation report. 
+- In this project, we developed a web application based which utilizes machine learning techniques capable of assessing whole-slide images of potentially cancerous tissues classification. 
 
 - More specifically, we intend to optimize the mitotic figure detection and count in WSIs to support pathologist with more confident/accurate decision making.
 
